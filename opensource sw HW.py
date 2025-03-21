@@ -2,4 +2,4 @@
 
 # ceratecreatecreateceratew 하였다. touch. 이것은 되었다. 수정.
 
-# 2. merge 되기 전에 다시 보내는 pull request 요청.
+# 2. merge 되기 전에 다시 보내는 pull request 요청. - 다시
